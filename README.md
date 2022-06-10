@@ -11,8 +11,10 @@ Starting from : June 6, 2022
 
 - <b>Chapter 12</b> - [Project 2: Opening all search results](https://github.com/mK-zero/Automate-the-Boring-Stuff-with-Python/tree/main/chapter-12/2_open-all-search-results)
 
+- <b>Chapter 12</b> - [Project 3: Downloading all XKCD comics](https://github.com/mK-zero/Automate-the-Boring-Stuff-with-Python/tree/main/chapter-12/3_download-all-xkcd-comics)
+
 <p align="center">
-Last Updated : June 6, 2022
+Last Updated : June 10, 2022
 </p>
 
 <p align="center">
