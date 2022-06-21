@@ -15,8 +15,10 @@ Starting from : June 6, 2022
 
 - <b>Chapter 16</b> - [Project 1: Remove the header from CSV files](https://github.com/mK-zero/Automate-the-Boring-Stuff-with-Python/tree/main/chapter-16/1_remove-header-csv)
 
+- <b>Chapter 16</b> - [Project 2: Fetch current weather data](https://github.com/mK-zero/Automate-the-Boring-Stuff-with-Python/tree/main/chapter-16/2_fetch-current-weather)
+
 <p align="center">
-Last Updated : June 16, 2022
+Last Updated : June 21, 2022
 </p>
 
 <p align="center">
